@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Turno</string>
+    <string name="str_Title">Turn</string>
+    <string name="str_destiny">Destiny chooses</string>
+    <string name="str_sam_name">Sam</string>
+    <string name="str_erika_name">Erika</string>
+    <string name="str_reveal">Reveal</string>
+    <string name="str_empty" />
+</resources>
